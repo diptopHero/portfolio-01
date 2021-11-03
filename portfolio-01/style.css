@@ -1,0 +1,83 @@
+.head{
+    width: 40%;
+    float: left;
+    font-size: 20px;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.head img{
+    width: 100%;
+}
+.name-1{
+    color:yellowgreen;
+    font-size: 50px;
+}
+.topper{
+    background-image: url("pics/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+  
+    height: 600px;
+    padding-bottom: 100px;
+}
+p{
+    color: dimgray;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: whitesmoke;
+}
+.bio{
+    font-size: 40px;
+    color: turquoise;
+}
+.middle{
+    background-image: url("pics/biography-bg.png");
+}
+.work{
+    text-align: center;
+}
+#middle-over img{
+    width:400px;
+    height: 300px;
+    float: left;
+  padding: 5px 5px;
+   margin-left: 20px;
+}
+#middle-over{
+    height: 500px;
+    background-image: url("pics/latest-work-bg.png");
+}
+.zero-1{
+    color: black;
+}
+.zero-02{
+    font-size: 10px;
+}
+.pera{
+    color: black;
+}
+.last-side{
+    width: 400px;
+    height: 100px;
+    
+    text-align: center;
+    padding: 10px 30px;
+    background-image: linear-gradient(lightsalmon, tomato);
+    margin-left: 120px;
+}
+.last-bar{
+    text-align: center;
+    width:700px;
+    height: 400px;
+   
+    margin-left:300px;
+}
+.footer{
+    text-align: center;
+}
